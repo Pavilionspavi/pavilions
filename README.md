@@ -1,0 +1,2 @@
+# pavilions
+Glitch Discord Bot
